@@ -1,0 +1,22 @@
+"use strict"// treat all js code as newer version
+
+//alert( 3+3) // we are using node js
+
+console.log(3+3);
+
+let name = "Himal"
+let age=17
+let isloggedIn = false
+
+// number =>  2 to power 53
+//bigint
+// sring => ""
+// boolen => true/ false
+// null => standalone value
+// undefine =>
+// symbol => unique
+
+//object
+
+console.log(typeof age); // know the type of var
+
