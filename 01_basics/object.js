@@ -6,7 +6,7 @@ const course = {
 
 const {Instructor} = course
 
-console.log(Instructor);
+//console.log(Instructor);
 
 const navbar = () =>{
 
@@ -14,5 +14,6 @@ const navbar = () =>{
  navbar()
 
  {
-         name: ""
+    name: "Himal"
+         
  }
