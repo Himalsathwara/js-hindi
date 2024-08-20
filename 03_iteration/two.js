@@ -14,7 +14,7 @@ let arr =0
  }
  
  let score = 1
-
+ 
  do {
     console.log(`score is ${score}`);
     score++
