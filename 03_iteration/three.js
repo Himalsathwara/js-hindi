@@ -23,17 +23,17 @@ map.set('Sa',"South africa")
 
 //console.log(map);
 
-for ( const [key,value] of map ){
-    console.log(key, ':-', value);
-    }
+// for ( const [key,value] of map ){
+//     console.log(key, ':-', value);
+//     }
 
     const myObject  = {
-        'gmae1': 'NFS'
-        'game2': 'spiderman'
+        gmae1: 'NFS',
+        game2: 'spiderman'
     }
-     for (const [key,value] of myObject) {
-      console.log(key, ':-', value);
+    //  for (const [key,value] of myObject) {
+    //   console.log(key, ':-', value);
       
-     }
+    //  }
         
      
